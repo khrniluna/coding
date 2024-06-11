@@ -18,15 +18,15 @@ def sing_lyric(lyric, delay, speed):
 
 def sing_song():
     lyrics = [
-        ("Do you think I have forgotten?", 0.1),
-        ("Do you think I have forgotten?", 0.1),
-        ("Do you think I have forgotten", 0.1),
-        ("about you?", 0.2),
-        ("There was something bout you that now I cant remember", 0.08),
-        ("Its the same damn thing that made my heart surrender", 0.1),
-        ("And I miss you on a train, I miss you in the morning", 0.1),
-        ("I never know what to think about", 0.1),
-        ("I think about youuuuuuuuuuuuuuuuuuuuuuuuuuu", 0.1)
+        ("ku tak pandai berdusta", 0.1),
+        ("jujur saja kau boleh juga", 0.1),
+        ("tak bisa ku pungkiri", 0.1),
+        ("hati nyaman tiap kau ada", 0.2),
+        ("caramu tersenyum", 0.08),
+        ("tertawa dan merangkai canda", 0.1),
+        ("buatku terpesona", 0.1),
+        ("dan dapat kau baca", 0.1),
+        ("mataku bicaraaaaaaa", 0.1)
     ]
     delays = [0.3, 5.0, 10.0, 15.0, 20.3, 25.0, 27.0, 30.2, 33.3]
     
